@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13724485&assignment_repo_type=AssignmentRepo)
 # Lesson 6 Project
 
 A client has reviewed your portfolio so far and you have been hired to create a basic web page that will be shared with the client’s company to explain the difference between different social media sites that could be used for the company. Think professionally and complete research on common social media sites to focus on sites whose purpose is to raise attention or awareness to a new company.
